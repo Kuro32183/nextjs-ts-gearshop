@@ -2,64 +2,13 @@
 
 「[TypeScriptとReact/Next.jsでつくる実践Webアプリケーション](https://gihyo.jp/book/2022/978-4-297-12916-3)」のサンプルアプリ
 
-![サンプルアプリ](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
-
-## 初版からのアップデート
-
-- [ビルドが失敗する問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/6)
-- [Storybookが最新のNext.jsで動作しない問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/5)
-
-
-## 開発サーバー起動
-
-開発サーバーの起動し、http://localhost:3000/ にアクセス
-
-```
-npm run dev
-```
-
-## Storybook起動
-
-Storybookを起動し、http://localhost:6006/ にアクセス
-
-```
-npm run storybook
-```
-
-## テスト実行
-
-ユニットテスト実行
-
-```
-npm run test
-```
-
-## ソースコードリンター・フォーマッター
-
-ソースコードをリンターでチェック
-
-```
-npm run lint
-```
-
-ソースコードをフォーマッターで整形
-
-```
-npm run format
-```
-
-
-
-簡単にディレクトリ構成を以下に説明します。
-
-
 
 
 # nextjs-ts-gearshop
 
 ## デモ
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+![サンプルアプリ](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
 
 ## 概要
 
@@ -102,7 +51,6 @@ npm run format
 
 ```bash
 npm install
-npm run dev
 ```
 
 # 使用方法
@@ -111,6 +59,44 @@ npm run dev
 git clone https://github.com/hoge/~
 cd examples
 
+```
+
+## 開発サーバー起動
+
+開発サーバーの起動し、http://localhost:3000/ にアクセス
+
+```
+npm run dev
+```
+
+## Storybook起動
+
+Storybookを起動し、http://localhost:6006/ にアクセス
+
+```
+npm run storybook
+```
+
+## テスト実行
+
+ユニットテスト実行
+
+```
+npm run test
+```
+
+## ソースコードリンター・フォーマッター
+
+ソースコードをリンターでチェック
+
+```
+npm run lint
+```
+
+ソースコードをフォーマッターで整形
+
+```
+npm run format
 ```
 
 # Note
