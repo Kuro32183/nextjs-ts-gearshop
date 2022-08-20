@@ -4,7 +4,7 @@
 
 ## デモ
 
-![サンプルアプリ](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
+![サンプルアプリ]([https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png](https://media.giphy.com/media/vRN7Fy0ZWNPmlHMUoc/giphy.gif))
 
 ## 概要
 
