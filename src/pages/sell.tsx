@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import type { NextPage } from "next";
 import { useRouter } from "next/router";
 import AppLogo from "components/atoms/AppLogo";

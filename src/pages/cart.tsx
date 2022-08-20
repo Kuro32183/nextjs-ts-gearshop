@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import type { NextPage } from "next";
 import Link from "next/link";
 import BreadcrumbItem from "components/atoms/BreadcrumbItem";
