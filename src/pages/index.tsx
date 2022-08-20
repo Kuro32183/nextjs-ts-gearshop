@@ -88,19 +88,19 @@ const HomePage: NextPage<HomePageProps> = ({
         >
           <Box marginBottom={3}>
             <Text as="h2" variant="large">
-              トップス
+              エレキギター
             </Text>
             {renderProductCardCarousel(clothesProducts)}
           </Box>
           <Box marginBottom={3}>
             <Text as="h2" variant="large">
-              本
+              アコースティックギター
             </Text>
             {renderProductCardCarousel(bookProducts)}
           </Box>
           <Box>
             <Text as="h2" variant="large">
-              シューズ
+              ギターアンプ
             </Text>
             {renderProductCardCarousel(shoesProducts)}
           </Box>
