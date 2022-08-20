@@ -9,26 +9,6 @@
 - [ビルドが失敗する問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/6)
 - [Storybookが最新のNext.jsで動作しない問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/5)
 
-## 環境
-
-- Node.js: 16.14.0
-- Next.js: 12.2.3
-- React: 18.2.0
-
-## インストール
-
-```bash
-npm install
-```
-
-## 環境変数の設定
-
-.envを開く
-
-```
-API_BASE_URL=<バックエンドAPIへのベースURLの設定>
-NEXT_PUBLIC_API_BASE_PATH=/api/proxy
-```
 
 ## 開発サーバー起動
 
@@ -68,32 +48,30 @@ npm run lint
 npm run format
 ```
 
-## ディレクトリ構成
+
 
 簡単にディレクトリ構成を以下に説明します。
 
 
 
 
-## nextjs-ts-gearshop
+# nextjs-ts-gearshop
 
-# DEMO
+## デモ
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-# Features
+## 概要
 
 "hoge"のセールスポイントや差別化などを説明する
 
-# Requirement
+## 環境
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+- Node.js: 16.14.0
+- Next.js: 12.2.3
+- React: 18.2.0
 
-* "node": "v16.14.0",
-* "react": "^18.2.0",
-* "next": "^12.2.3",
-* "react-dom": "^18.2.0",
-
+## ディレクトリ構成
 
 ```
 ├── .editorconfig
@@ -120,22 +98,19 @@ npm run format
 └── tsconfig.json
 ```
 
-# Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
+## インストール
 
 ```bash
-pip install huga_package
+npm install
+npm run dev
 ```
 
-# Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+# 使用方法
 
 ```bash
 git clone https://github.com/hoge/~
 cd examples
-python demo.py
+
 ```
 
 # Note
