@@ -1,8 +1,3 @@
-## TypeScriptとReact/Next.jsでつくる実践Webアプリケーション
-
-「[TypeScriptとReact/Next.jsでつくる実践Webアプリケーション](https://gihyo.jp/book/2022/978-4-297-12916-3)」のサンプルアプリ
-
-
 
 # nextjs-ts-gearshop
 
@@ -12,7 +7,10 @@
 
 ## 概要
 
-"hoge"のセールスポイントや差別化などを説明する
+Next.jsのショッピングアプリを作成しました。
+フロントエンドはNext.jsとTypescript,バックエンドのモックAPIjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しており
+ユーザー認証、カート機能、検索機能、出品システムを備えています。
+
 
 ## 環境
 
