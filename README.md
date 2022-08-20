@@ -56,7 +56,7 @@ npm install
 ## 使用方法
 
 ```bash
-git clone https://github.com/hoge/~
+git clone https://github.com/Kuro32183/nextjs-ts-gearshop.git
 cd examples
 
 ```
