@@ -1,6 +1,7 @@
 
 # nextjs-ts-gearshop
 
+
 ## デモ
 
 ![サンプルアプリ](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
@@ -8,7 +9,7 @@
 ## 概要
 
 Next.jsのフルスタックのショッピングアプリを作成しました。
-フロントエンドはNext.jsとTypescriptで開発しVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ
+フロントエンドはNext.jsとTypescriptで開発しVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ。
 ユーザー認証、カート機能、検索機能、出品システムを備えています。
 
 
@@ -99,11 +100,7 @@ npm run format
 
 ## Note
 
-注意点などがあれば書く
-
 ## Author
-
-作成情報を列挙する
 
 * Kuro32183
 * takumi32183@gmail.com
