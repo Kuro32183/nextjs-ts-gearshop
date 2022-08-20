@@ -72,6 +72,29 @@ npm run format
 
 簡単にディレクトリ構成を以下に説明します。
 
+
+
+
+## nextjs-ts-gearshop
+
+# DEMO
+
+"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
+# Features
+
+"hoge"のセールスポイントや差別化などを説明する
+
+# Requirement
+
+"hoge"を動かすのに必要なライブラリなどを列挙する
+
+* "node": "v16.14.0",
+* "react": "^18.2.0",
+* "next": "^12.2.3",
+* "react-dom": "^18.2.0",
+
+
 ```
 ├── .editorconfig
 ├── .env <-- 環境変数
@@ -96,53 +119,42 @@ npm run format
 │   └── utils <-- 汎用関数
 └── tsconfig.json
 ```
-# nextjs-ts-gearshop
 
+# Installation
 
-NEXTJS MATTER
-Overview
-An interactive website sample where textures fall on click events.
+Requirementで列挙したライブラリなどのインストール方法を説明する
 
-Description
-Matter.js is a JavaScript 2D physics engine library that can be implemented on the Web. Developed physics, fall time adjustment, click event, Mouse Constraint, and responsive design from Next.js and Matter.js Hosting uses Vercel.
+```bash
+pip install huga_package
+```
 
-Demo
-demo
+# Usage
 
+DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
-Requirement
-Requirement
+```bash
+git clone https://github.com/hoge/~
+cd examples
+python demo.py
+```
 
-Licence
-MIT
+# Note
 
-Author
-Kuro32183
+注意点などがあれば書く
 
-This is a Next.js project bootstrapped with create-next-app.
+# Author
 
-Getting Started
-First, run the development server:
+作成情報を列挙する
 
-npm run dev
-# or
-yarn dev
-Open http://localhost:3000 with your browser to see the result.
+* 作成者
+* 所属
+* E-mail
 
-You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
+# License
+ライセンスを明示する
 
-API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
+"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
+社内向けなら社外秘であることを明示してる
 
-Learn More
-To learn more about Next.js, take a look at the following resources:
-
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
-
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
+"hoge" is Confidential.
