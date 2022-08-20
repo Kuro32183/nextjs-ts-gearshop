@@ -4,7 +4,8 @@
 
 ## デモ
 
-![サンプルアプリ]([https://media.giphy.com/media/vRN7Fy0ZWNPmlHMUoc/giphy.gif])
+![demo](https://media.giphy.com/media/vRN7Fy0ZWNPmlHMUoc/giphy.gif)
+
 
 ## 概要
 
