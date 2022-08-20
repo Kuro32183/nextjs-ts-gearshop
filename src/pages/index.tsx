@@ -51,16 +51,16 @@ const HomePage: NextPage<HomePageProps> = ({
         >
           <Box width="100%">
             <Text as="h1" marginBottom={0} color="white" variant="extraLarge">
-              Gihyo C2Cで
+              Retro Gearで
             </Text>
             <Text as="h1" marginTop={0} color="white" variant="extraLarge">
-              お気に入りのアイテムを見つけよう
+              お気に入りのGearを見つけよう
             </Text>
           </Box>
           <Box width="100%">
             <Text as="p" color="white" variant="mediumLarge">
-              Gihyo
-              C2Cは実践的なNext.jsアプリケーション開発で使われるデモアプリです。モックサーバを使用しています。
+              Retro
+              Gearは実践的なNext.jsアプリケーション開発で使われるデモアプリです。モックサーバを使用しています。
               ソースコードは
               <Text
                 as="a"
@@ -72,7 +72,7 @@ const HomePage: NextPage<HomePageProps> = ({
               >
                 こちら
               </Text>
-              のGithubからダウンロードできます。
+              で確認できます。
             </Text>
             <Text as="p" color="white" variant="mediumLarge">
               このアプリはTypeScript/Next.jsで作成されており、バックエンドのモックAPIはjson-serverが使用されています。
