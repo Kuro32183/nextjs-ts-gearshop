@@ -7,8 +7,8 @@
 
 ## 概要
 
-Next.jsのショッピングアプリを作成しました。
-フロントエンドはNext.jsとTypescript,バックエンドのモックAPIjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しており
+Next.jsのフルスタックのショッピングアプリを作成しました。
+フロントエンドはNext.jsとTypescriptで開発しVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ
 ユーザー認証、カート機能、検索機能、出品システムを備えています。
 
 
@@ -51,7 +51,7 @@ Next.jsのショッピングアプリを作成しました。
 npm install
 ```
 
-# 使用方法
+## 使用方法
 
 ```bash
 git clone https://github.com/hoge/~
@@ -97,23 +97,19 @@ npm run lint
 npm run format
 ```
 
-# Note
+## Note
 
 注意点などがあれば書く
 
-# Author
+## Author
 
 作成情報を列挙する
 
-* 作成者
-* 所属
-* E-mail
+* Kuro32183
+* takumi32183@gmail.com
 
-# License
-ライセンスを明示する
+## License
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"Retro Gear" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+"Retro Gear" is Confidential.
