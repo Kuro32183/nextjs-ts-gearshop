@@ -9,7 +9,7 @@
 
 ## 概要
 
-Next.jsのフルスタックのショッピングアプリを作成しました。
+Next.jsのデモアプリを作成しました。
 フロントエンドはNext.jsとTypescriptでVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ。
 ユーザー認証、カート機能、検索機能、出品システムを備えています。
 
