@@ -7,14 +7,14 @@
 ![demo](https://media.giphy.com/media/vRN7Fy0ZWNPmlHMUoc/giphy.gif)
 
 
-## 概要
+## 概要:speech_balloon:
 
 Next.jsのデモアプリを作成しました。
 フロントエンドはNext.jsとTypescriptでVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ。
 ユーザー認証、カート機能、検索機能、出品システムを備えています。
 
 
-## 環境
+## 環境:ocean:
 
 - Node.js: 16.14.0
 - Next.js: 12.2.3
@@ -47,13 +47,13 @@ Next.jsのデモアプリを作成しました。
 └── tsconfig.json
 ```
 
-## インストール
+## インストール:feet:
 
 ```bash
 npm install
 ```
 
-## 使用方法
+## 使用方法:eyes:
 
 ```bash
 git clone https://github.com/Kuro32183/nextjs-ts-gearshop.git
@@ -61,7 +61,7 @@ cd examples
 
 ```
 
-## 開発サーバー起動
+## 開発サーバー起動:computer:
 
 開発サーバーの起動し、http://localhost:3000/ にアクセス
 
@@ -69,7 +69,7 @@ cd examples
 npm run dev
 ```
 
-## Storybook起動
+## Storybook起動:book:
 
 Storybookを起動し、http://localhost:6006/ にアクセス
 
@@ -77,7 +77,7 @@ Storybookを起動し、http://localhost:6006/ にアクセス
 npm run storybook
 ```
 
-## テスト実行
+## テスト実行:paperclip:
 
 ユニットテスト実行
 
@@ -85,7 +85,7 @@ npm run storybook
 npm run test
 ```
 
-## ソースコードリンター・フォーマッター
+## ソースコードリンター・フォーマッター:shower:
 
 ソースコードをリンターでチェック
 
@@ -99,14 +99,12 @@ npm run lint
 npm run format
 ```
 
-## Note
-
-## Author
+## Author:sunglasses:
 
 * Kuro32183
 * takumi32183@gmail.com
 
-## License
+## License:email:
 
 "Retro Gear" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
