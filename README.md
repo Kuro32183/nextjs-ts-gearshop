@@ -1,5 +1,5 @@
 
-# nextjs-ts-gearshop:guitar:
+# nextjs-ts-gearshop　:guitar:
 
 
 ## デモ
@@ -7,20 +7,20 @@
 ![demo](https://media.giphy.com/media/vRN7Fy0ZWNPmlHMUoc/giphy.gif)
 
 
-## 概要:speech_balloon:
+## 概要　:speech_balloon:
 
 Next.jsのデモアプリを作成しました。
 フロントエンドはNext.jsとTypescriptでVercelへデプロイ,バックエンドのモックAPIはjson-server（[ソースコードはこちらを参照](https://github.com/Kuro32183/json-gearshop-backend)）を使用しておりHerokuへデプロイ。
 ユーザー認証、カート機能、検索機能、出品システムを備えています。
 
 
-## 環境:ocean:
+## 環境　:ocean:
 
 - Node.js: 16.14.0
 - Next.js: 12.2.3
 - React: 18.2.0
 
-## ディレクトリ構成:books:
+## ディレクトリ構成　:books:
 
 ```
 ├── .editorconfig
@@ -47,13 +47,13 @@ Next.jsのデモアプリを作成しました。
 └── tsconfig.json
 ```
 
-## インストール:feet:
+## インストール　:feet:
 
 ```bash
 npm install
 ```
 
-## 使用方法:eyes:
+## 使用方法　:paperclip:
 
 ```bash
 git clone https://github.com/Kuro32183/nextjs-ts-gearshop.git
@@ -69,7 +69,7 @@ cd examples
 npm run dev
 ```
 
-## Storybook起動:book:
+## Storybook起動　:book:
 
 Storybookを起動し、http://localhost:6006/ にアクセス
 
@@ -77,7 +77,7 @@ Storybookを起動し、http://localhost:6006/ にアクセス
 npm run storybook
 ```
 
-## テスト実行:paperclip:
+## テスト実行　:eyes:
 
 ユニットテスト実行
 
@@ -85,7 +85,7 @@ npm run storybook
 npm run test
 ```
 
-## ソースコードリンター・フォーマッター:shower:
+## ソースコードリンター・フォーマッター　:shower:
 
 ソースコードをリンターでチェック
 
@@ -99,12 +99,12 @@ npm run lint
 npm run format
 ```
 
-## Author:sunglasses:
+## Author　:sunglasses:
 
 * Kuro32183
 * takumi32183@gmail.com
 
-## License:email:
+## License　:email:
 
 "Retro Gear" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
