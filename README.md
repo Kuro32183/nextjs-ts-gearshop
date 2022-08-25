@@ -61,7 +61,7 @@ cd examples
 
 ```
 
-## 開発サーバー起動:computer:
+## 開発サーバー起動 :computer:
 
 開発サーバーの起動し、http://localhost:3000/ にアクセス
 
